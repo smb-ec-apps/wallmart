@@ -1,1 +1,1 @@
-initiated dbuti.sh
+updated dbuti.sh
